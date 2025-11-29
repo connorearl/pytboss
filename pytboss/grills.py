@@ -18,7 +18,7 @@ UNSUPPORTED_MODELS = (
     "LG0800BL",  # Bad parsing routine
     "LG1000BL",  # Bad parsing routine
     "LG1200BL",  # Bad parsing routine
-    "LG1200FL",  # Bad parsing routine
+    #"LG1200FL",  # Bad parsing routine
     "LG1200FP",  # Bad parsing routine
     "LG300BL",  # Bad parsing routine
     "LG800FL",  # Bad parsing routine
